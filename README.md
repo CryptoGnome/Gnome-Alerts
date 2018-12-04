@@ -11,6 +11,10 @@ ProfitTrailer Feeder: https://cryptoprofitbot.com/?ref=CryptoGnome
 
 CryptoHopper (Try it FREE for 30 Day's): https://www.cryptohopper.com/?atid=744
 
+Deribit: https://www.deribit.com/reg-2234.6442
+
+Bitmex: https://www.bitmex.com/register/EOsLBm
+
 Binance: https://www.binance.com/?ref=11615560
 
 Vultr VPS: https://www.vultr.com/?ref=7300008
