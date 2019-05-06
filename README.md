@@ -5,7 +5,6 @@ https://www.gnomegarden.io/gnome-alerts/
 
 ## Want to Support The Discord? Use any of Our Affilaite Links Below!
 
-**Please help support the Discord and support members by using any of our affiliate links below!**
 
 **Get Gnome Alerts:**
 <https://www.patreon.com/cryptognome>
