@@ -1,7 +1,7 @@
 # Gnome-Alerts
 
 SEE WIKI HERE FOR MORE INFO:
-https://github.com/CryptoGnome/Gnome-Alerts/wiki
+https://www.gnomegarden.io/gnome-alerts/
 
 ## Want to Support The Discord? Use any of Our Affilaite Links Below!
 
